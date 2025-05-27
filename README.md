@@ -45,7 +45,7 @@ The dataset includes:
 
 ## 📂 Files
 
-- `Clustering_Steel_Grades.ipynb` – Main notebook with code and outputs.
+- https://github.com/imrikkie/Clustering-Project/blob/main/Clustering_Steel_Grades_Updated%20new%20(1).ipynb – Main notebook with code and outputs.
 - https://github.com/imrikkie/Clustering-Project/blob/main/Clustering_Steel_Grades_Report.docx – Project documentation with detailed explanation.
 
 ## 📧 Contact
